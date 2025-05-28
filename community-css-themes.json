@@ -2607,5 +2607,12 @@
   "repo": "omkar-4/Modern-GenZ-Vibedose",
   "screenshot": "screenshot.png",
   "modes": ["dark", "light"]
+  },
+  {
+  "name": "neapolitan",
+  "author": "redbeansoupy",
+  "repo": "redbeansoupy/neapolitan-obsidian",
+  "screenshot": "neapolitan.png",
+  "modes": ["light"]
   }
 ]
